@@ -2,6 +2,11 @@
 
 方便在p5js中进行栅格化设计，生成网格，返回网格点信息，并且在网格上绘制矩形、椭圆及文本。
 
+
+## 查看范例
+<a href="https://leizingyiu.github.io/p5js_Grid/">https://leizingyiu.github.io/p5js_Grid/</a>
+
+
 ## 引入
 可以通过CDN引用，也可以下载到本地引用
 ```html
